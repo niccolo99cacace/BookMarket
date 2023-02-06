@@ -1,0 +1,130 @@
+
+#sect {
+    background: linear-gradient(to top, #ffffff 0%, #fddaac 100%);
+    border-style: double;
+    border-bottom: none;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 320px) {
+    /* titoli libri */
+    .titolo {
+        font-size: 75%;
+        font-style: italic;
+    }
+
+    /* quando premi o passi il cursore sul titolo del libro */
+    .titolo:link, .titolo:visited {
+        text-decoration: none;
+        color: black;
+    }
+
+    .titolo:hover, .titolo:active {
+        text-decoration: underline;
+    }
+
+
+    /* <div> dove sono contenute immagine prezzo nome del libro */
+    .book {
+        margin: 10px 10px 5px 10px;
+    }
+
+    /* immagine del libro */
+    .pic {
+        max-width: 50%;
+        height: auto;
+    }
+}
+
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 320px) {
+    .titolo {
+        font-size: 75%;
+        font-style: italic;
+    }
+
+    .titolo:link, .titolo:visited {
+        text-decoration: none;
+        color: black;
+    }
+
+    .titolo:hover, .titolo:active {
+        text-decoration: underline;
+    }
+
+    .book {
+        margin: 10px 10px 5px 10px;
+    }
+    .pic {
+        max-width: 50%;
+        height: auto;
+    }
+}
+
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 481px) {
+    .titolo {
+        font-size: 75%;
+        font-style: italic;
+    }
+
+    .titolo:link, .titolo:visited {
+        text-decoration: none;
+        color: #000000;
+    }
+
+    .titolo:hover, .titolo:active {
+        text-decoration: underline;
+    }
+
+    .book {
+        margin: 10px 10px 5px 10px;
+    }
+
+    .pic {
+        max-width: 50%;
+        height: auto;
+    }
+}
+
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+
+@media only screen and (min-width: 769px) {
+    .titolo {
+        font-size: 75%;
+        font-style: italic;
+    }
+
+    .titolo:link, .titolo:visited {
+        text-decoration: none;
+        color: #000000;
+    }
+
+    .titolo:hover, .titolo:active {
+        text-decoration: underline;
+    }
+
+    .book {
+        margin: 10px 10px 5px 10px;
+    }
+    .pic {
+        max-width: 50%;
+        height: auto;
+    }
+}
+
+
+
+
+
+
+
+
+

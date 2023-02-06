@@ -1,0 +1,15 @@
+
+.g {
+    background: linear-gradient(to top, #ffffff 0%, #fcd899 100%);
+    max-width: 100%;
+    height: auto;
+}
+
+[class*="g"] {
+    width: 100%;
+}
+
+#pic {
+    width: 75%;
+    height: auto;
+}

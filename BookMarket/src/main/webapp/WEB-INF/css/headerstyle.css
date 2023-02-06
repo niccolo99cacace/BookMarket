@@ -1,0 +1,45 @@
+
+/* bottone login  */
+#login:link, #login:visited {
+    background-color: #679;
+    color: #ffffff;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20%;
+    margin-right: 20%;/**
+    border-left-style: dot-dot-dash; **/
+}
+
+
+#cart:link, #cart:visited {
+    background-color: #679;
+    color: #ffffff;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+#logo {
+    font-style: initial;
+    text-decoration-style: solid;
+}
+
+#ricerca {
+    display: flex;
+}
+
+#barraRic{
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+#barraRic:hover{
+    border-bottom: 1px solid gold;
+    color: white;
+}
