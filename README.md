@@ -1,10 +1,12 @@
 BookMarket is a books e-commerce with which you can view and eventually buy books sorted by category.
 The project also has a section dedicated to the admin where you can manage the sale of books.
 
--Home Page![bookMarket principale](https://user-images.githubusercontent.com/122627587/217108024-3fb6e737-1515-4f4a-aef8-e5b766da3d42.png)
+-Home Page![bookMarket principale](https://user-images.githubusercontent.com/122627587/217109042-36427cfd-cc67-4e49-b7d4-9f8ee5d71f9b.png)
 
--Login/Registration Page ![Bookshop Store - Home - Google Chrome 06_02_2023 19_00_17](https://user-images.githubusercontent.com/122627587/217108111-bf25cc29-c1e7-4d0d-855e-7f47fba45e62.png)
+-Login/Registration Page![BookMarket LogReg](https://user-images.githubusercontent.com/122627587/217108945-1eccb08b-5f45-42cf-a418-8d5c834f1d42.png)
 
--Item Page ![BookMarket itemPage](https://user-images.githubusercontent.com/122627587/217108144-4a2cc096-b763-4a22-8130-67a240554969.png)
+-Item Page ![BookMarket itemPage](https://user-images.githubusercontent.com/122627587/217108816-61de9670-a108-48ec-b9da-80ffb9a38f52.png)
 
--Cart Page ![BookMarket carrello](https://user-images.githubusercontent.com/122627587/217108165-05cf323c-fb53-4c59-a730-84f27cf62595.png)
+-Cart Page ![BookMarket carrello](https://user-images.githubusercontent.com/122627587/217108719-68bdfcde-3883-4b77-81a7-e32dd0e7b730.png)
+
+
